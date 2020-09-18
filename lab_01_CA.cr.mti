@@ -1,0 +1,15 @@
+{E:/Work/Last Semester/CA/lab 1/lab_1_ibrahim_khairy/testbench.sv} {1 {vlog -work work -vopt -sv -nocovercells {E:/Work/Last Semester/CA/lab 1/lab_1_ibrahim_khairy/testbench.sv}
+Model Technology ModelSim SE vlog 6.5 Compiler 2009.01 Jan 22 2009
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} {E:/Work/Last Semester/CA/lab 1/lab_1_ibrahim_khairy/alu.sv} {1 {vlog -work work -vopt -sv -nocovercells {E:/Work/Last Semester/CA/lab 1/lab_1_ibrahim_khairy/alu.sv}
+Model Technology ModelSim SE vlog 6.5 Compiler 2009.01 Jan 22 2009
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}}
